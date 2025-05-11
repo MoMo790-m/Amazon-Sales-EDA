@@ -20,6 +20,10 @@ After that, I started breaking down the data:
 - There are patterns depending on the marketplace and time period that could help businesses make smarter decisions.
 
 This project was a great chance to apply EDA skills on something practical. If you're into data analysis or just curious about e-commerce trends, you'll probably find something interesting here.
+## Why This Project Matters?
+
+E-commerce platforms like Amazon generate a massive amount of transactional data. Being able to extract useful insights from such data is a key skill in data analysis and business intelligence. This project is a hands-on example of applying those skills on real-world-like data.
+
 
 ---
 
